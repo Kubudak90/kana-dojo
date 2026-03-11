@@ -528,7 +528,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -537,7 +537,7 @@
     "example": "子どものころからアニメが好きだ。",
     "id": 60,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "手紙 (tegami)",
@@ -546,7 +546,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -564,7 +564,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 63,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -573,7 +573,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 64,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -582,7 +582,7 @@
     "example": "ライブでテンションが上がった。",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "バイキング (baikingu)",
@@ -599,7 +599,7 @@
     "explanation": "カンニング means cheating on tests. (Set 4)",
     "example": "試験でカンニングしてはいけません。",
     "id": 67,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
